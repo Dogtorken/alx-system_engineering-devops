@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -hR vincrnt:staff_hello .
+chown vincrnt:staff *
